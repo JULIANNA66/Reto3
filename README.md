@@ -5,7 +5,7 @@ while True:
 
   print("""
    1.- Platos del dia
-         2.- Salir
+   2.- Salir
    """)
 
   opcion: 'srt' = input('Escoge:')
@@ -37,30 +37,6 @@ while True:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-va1,va2, va3,  va4, va5, va6, = 10, 20, 50, 100, 200, 500
-
-
-
-
-
-
-
-
-
-total =('precio de la comida')
 
 #reverse Arrays
 menu: list = ['1.Trucha marinada con salsa de albahaca con Gaseosa', '2.Judías verdes con tomate y jamón con limonada de yerbabuena', '3.Berenjenas agridulces con hamburguesa con jugo natural']
